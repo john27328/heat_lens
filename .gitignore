@@ -1,0 +1,14 @@
+
+*.stash
+*.o
+linzi
+Makefile
+*.Release
+*.Debug
+moc_*
+build-teplovay_linza_2-Desktop_Qt_5_7_0_GCC_64bit-Debug/teplovay_linza_2
+build-teplovay_linza_3d-Desktop_Qt_5_7_0_GCC_64bit-Debug/teplovay_linza_3d
+build-teplovay_linza_3d-Desktop_Qt_5_7_0_GCC_64bit-Debug/teplovay_linza_3d_stable
+build-teplovay_linza_viewer-Desktop-Debug/teplovay_linza_viewer
+build-teplovay_linza_viewer-Desktop_Qt_5_7_0_GCC_64bit-Debug/teplovay_linza_viewer
+*.user*
